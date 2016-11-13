@@ -1,7 +1,7 @@
 "use strict"
 
 var request = require('request');
-let org = "alexellisio";
+let org = "alexellis2";
 let url = "https://hub.docker.com/v2/repositories/"+org+"/";
 
 let spider = (url)=> {

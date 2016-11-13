@@ -1,2 +1,3 @@
-MobyCountStarsIntent how many stars are on {Repository}
+MobyCountStarsIntent look up the stars for {Repository}
 MobyCaptainCountIntent how many Docker Captains are there
+MobyFindMostPopularIntent what is my most popular image
