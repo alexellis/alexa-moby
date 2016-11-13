@@ -1,0 +1,2 @@
+MobyCountStarsIntent how many stars are on {Repository}
+MobyCaptainCountIntent how many Docker Captains are there

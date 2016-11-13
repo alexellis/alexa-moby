@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "intent": "MobyCaptainCountIntent"
+    },
+    {
+      "intent": "MobyCountStarsIntent",
+      "slots": [
+        {
+          "name": "Repository",
+          "type": "REPOSITORY_NAME"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
