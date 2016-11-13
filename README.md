@@ -1,5 +1,15 @@
-# Sample AWS Lambda function for Alexa
+# Moby - AWS Lambda function for Alexa
 A simple [AWS Lambda](http://aws.amazon.com/lambda) function that demonstrates how to write a skill for the Amazon Echo using the Alexa SDK.
+
+## Quick overview
+
+**Phrases:**
+
+* Alexa ask Moby how stars are on kittens (repository)?
+* Alexa ask Moby how many Docker Captains there are?
+* Alexa ask Moby what is my most popular image?
+
+This guide is based upon the "Hello World" example in the JavaScript SDK. Follow this guide replacing the word "Hello World" with "Space Agency"
 
 ## Concepts
 This simple sample has no external dependencies or session management, and shows the most basic example of how to create a Lambda function for handling Alexa Skill requests.
